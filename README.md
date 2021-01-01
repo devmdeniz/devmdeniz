@@ -52,7 +52,7 @@
 <br>
 <details>
   <summart>Top Languages</summary>
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz"/>
 </details>
 
 [instagram]: https://instagram.com/devmdeniz
