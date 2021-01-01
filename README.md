@@ -50,9 +50,10 @@
   
 </details>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+<details>
+  <summart>Top Languages</summary>
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+</details>
 
 [instagram]: https://instagram.com/devmdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
