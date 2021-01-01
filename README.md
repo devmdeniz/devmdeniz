@@ -35,13 +35,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -51,7 +44,7 @@
 </details>
 <br>
 <details>
-  <summart>Top Languages</summary>
+  <summary>Top Languages</summary>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz"/>
 </details>
 
