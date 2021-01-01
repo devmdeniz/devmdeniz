@@ -43,6 +43,8 @@
   
 </details>
 <br>
+<br>
+<br>
 <details>
   <summary>Top Languages</summary>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz"/>
