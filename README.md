@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&langs_count=8)]
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devmdeniz&show_icons=true&hide_border=true&theme=dark" />
   
 </details>
 <br>
