@@ -36,19 +36,13 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=devmdeniz&show_icons=true&hide_border=true&theme=dark" />
   
-</details>
+
 <br>
 <br>
 <br>
-<details>
-  <summary>Top Languages</summary>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz"/>
-</details>
 
 [instagram]: https://instagram.com/devmdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
