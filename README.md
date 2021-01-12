@@ -37,6 +37,30 @@
 
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/devmdeniz/forreadme/blob/master/generated/overview.svg" />
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/devmdeniz/forreadme/blob/master/generated/languages.svg"/>
+ 
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+---
+ ### Another
+ 
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
 
 [instagram]: https://instagram.com/devmdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
