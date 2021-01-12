@@ -36,11 +36,6 @@
 
 
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/devmdeniz/forreadme/blob/master/generated/overview.svg" />
-  
-
-<br>
-<br>
-<br>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/devmdeniz/forreadme/blob/master/generated/languages.svg"/>
 
 [instagram]: https://instagram.com/devmdeniz
