@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehmet Deniz - aka [DevMDeniz][instagram] 👋
 
-- I am BackEnd Developer!
+- I want to be a Full Stack Developer!
 
 
 
