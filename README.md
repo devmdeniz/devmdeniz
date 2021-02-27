@@ -62,5 +62,5 @@
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
 
-[instagram]: https://instagram.com/devmdeniz
+[instagram]: https://instagram.com/dev.mdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
