@@ -2,7 +2,7 @@
 
 - I want to be a Full Stack Developer!
 
-
+<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" />
 
 ### Connect with me:
 
@@ -79,6 +79,7 @@
 ### Spotify Listening
 
 <img src="https://readme-spotify-status-ruby.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />
+
 
 [instagram]: https://instagram.com/dev.mdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
