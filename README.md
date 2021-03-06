@@ -64,7 +64,6 @@
   
 ---
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=h1h26h4fshu2kvcrjm2pyehkn&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=h1h26h4fshu2kvcrjm2pyehkn&cover_image=true&theme=compact)]]
 
 [instagram]: https://instagram.com/dev.mdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
