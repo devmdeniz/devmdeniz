@@ -62,19 +62,30 @@
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
   
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
 ---
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
 
 ### Spotify Listening
 
