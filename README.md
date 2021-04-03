@@ -1,6 +1,6 @@
 ### Hi there, I'm Mehmet Deniz - aka [DevMDeniz][instagram] 👋
 
-♦ I want to be a Full Stack Developer!
+♦ I want to be a Full Stack Developer! <br>
 ♦ BackEnd Developer
 
 <img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" />
