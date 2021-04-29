@@ -64,34 +64,5 @@
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
   
 
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
----
-
-### Spotify Listening
-
-<img src="https://readme-spotify-status-ruby.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />
-
-
 [instagram]: https://instagram.com/dev.mdeniz
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
