@@ -29,6 +29,8 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 <img align="left" alt="Laravel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+<img align="left" alt="Redis" width="50px" src="https://user-images.githubusercontent.com/68655812/117129438-56a91f80-ada7-11eb-9ae0-2ad6872773eb.png" />
+
 <br />
 <br />
 
