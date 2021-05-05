@@ -99,11 +99,6 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Chat Boxs</td>
-      <td>PHP, MySql, FontAwesome</td>
-      <td>⚜️</td>
-    </tr>
-    <tr>
       <td>Discord Bots</td>
       <td>Javascript, NodeJS, NoSql</td>
       <td>⚠️</td>
@@ -122,6 +117,11 @@
       <td>MyArduinoProjects</td>
       <td>C++, Arduino</td>
       <td>⚠️</td>
+    </tr>
+    <tr>
+      <td>Chat Boxs</td>
+      <td>PHP, MySql, FontAwesome</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Spotify Website</td>
