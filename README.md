@@ -101,6 +101,11 @@
       <th>Status</th>
     </tr>
     <tr>
+      <td>WebsiteLikeCVTemplate</td>
+      <td>PHP, Bootstrap, FontAwesome, Jquery</td>
+      <td>⚜️</td>
+    </tr>
+    <tr>
       <td>Discord Bots</td>
       <td>Javascript, NodeJS, NoSql</td>
       <td>⚠️</td>
@@ -108,11 +113,6 @@
       <tr>
       <td>Marco</td>
       <td>Kotlin</td>
-      <td>⚠️</td>
-    </tr>
-    <tr>
-      <td>WebsiteLikeCVTemplate</td>
-      <td>PHP, Bootstrap, FontAwesome, Jquery</td>
       <td>⚠️</td>
     </tr>
     <tr>
