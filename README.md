@@ -103,7 +103,7 @@
     <tr>
       <td>WebsiteLikeCVTemplate</td>
       <td>PHP, Bootstrap, FontAwesome, Jquery</td>
-      <td>⚜️</td>
+      <td>⚠️</td>
     </tr>
     <tr>
       <td>Discord Bots</td>
