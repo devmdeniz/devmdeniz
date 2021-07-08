@@ -101,6 +101,11 @@
       <th>Status</th>
     </tr>
     <tr>
+      <td>TESTS</td>
+      <td>Always Changing</td>
+      <td>⚠️</td>
+    </tr>
+    <tr>
       <td>WebsiteLikeCVTemplate</td>
       <td>PHP, Bootstrap, FontAwesome, Jquery</td>
       <td>⚠️</td>
