@@ -160,5 +160,5 @@
 
 
 
-[instagram]: https://instagram.com/dev.mdeniz
+[instagram]: https://instagram.com/dev.mdeniz/
 [linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
