@@ -38,7 +38,7 @@
 
 
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/languages.svg"/>
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
  
 <br />
 <br />
@@ -61,8 +61,6 @@
 ---
  ### Another
   
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
   
 <br />
 <br />
