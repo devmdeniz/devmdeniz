@@ -82,8 +82,8 @@
       <td>⚠️</td>
     </tr>
     <tr>
-      <td>WebsiteLikeCVTemplate</td>
-      <td>PHP, Bootstrap, FontAwesome, Jquery</td>
+      <td>Templates</td>
+      <td>Always Changing</td>
       <td>⚠️</td>
     </tr>
     <tr>
