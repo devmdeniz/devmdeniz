@@ -40,44 +40,7 @@
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
   <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
  
-<br />
-<br />
 
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
----
- ### Another
-  
-  
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
