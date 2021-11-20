@@ -1,65 +1,37 @@
-### Hi there, I'm Mehmet Deniz - aka [DevMDeniz][instagram] 👋
+### Hi there, I'm Mehmet Deniz - aka [DevMDeniz][linkedin] 👋
 
 ♦ I want to be a Full Stack Developer! <br>
 ♦ BackEnd Developer <br>
 
-<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" />
+---
 
-### Connect with me:
+<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Lastest Spotify Listening" width="350" />
 
-[<img align="left" alt="DevMDeniz LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DevMDeniz Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
 <br />
 
-### Languages:
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="50px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-
-<br>
-<br>
-
-### Technologies: 
-<img align="left" alt="Node.js" width="50px" src="https://d3vlyaljhwga45.cloudfront.net/web-media/upload/nodejslogo.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
-<img align="left" alt="Laravel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-<img align="left" alt="Redis" width="50px" src="https://user-images.githubusercontent.com/68655812/117294992-f9cb6900-ae7b-11eb-8fbf-594c39f098e7.png" />
-
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
 ---
 
+```javascript
+const devmdeniz = {
+  Job: "Searching Job",
+  Knowledge: ["HTML","CSS","JS","NPM & NODE","C Languages","Arduino","ASP.NET","PHP","SQL","NoSQL","Kotlin","Java"]
+}
+```
 
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
- 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
  ### Projects
