@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=devmdeniz&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 ---
 # ℹ️ Projects:
 [![](https://visitcount.itsvg.in/api?id=devmdeniz&icon=7&color=1)](https://visitcount.itsvg.in)
