@@ -27,6 +27,6 @@
 | Project name      | Description | Main Language or Technology     | Commit Number | STATE | WHY
 | :---        |    :----:   |          ---: |          ---: |          ---: |          ---: |
 | Panel Worldilkevim      | Professional Real Estate System.        | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 300 | PRIVATE | Only For Project Tracking Purposes Due To Company's Copyright
-| BioNexa | TUBITAK Project. We aim to increase life quality for this project | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 5 | PRIVATE | We check whether TUBITAK supports open source projects.
+| BioNexa | We changed Aim. New Aim Loading... | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 5 | PRIVATE | We check whether TUBITAK supports open source projects.
 | TR_Toptanci_Programi | Created for Turkeys Wholesale Companies. We aim to facilitate all stages for wholesalers | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 100 | PUBLIC | STOPPED DEVELOPMENT |
 | EDEngineer | Created for Elite Dangerous Game Tool | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | It's not my project | PUBLIC | I helped with Turkish language support
