@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working on World Ilkevim Gayrimenkul<br>♾ Backend Developer ♾
+🛠 I'm currently working on World Ilkevim Gayrimenkul<br>♾ Mid Fullstack Developer ♾
 
 
 ## 🌐 Socials:
