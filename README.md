@@ -30,3 +30,4 @@
 | BioNexa | We changed Aim. New Aim Loading... | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 5 | PRIVATE | We check whether TUBITAK supports open source projects.
 | TR_Toptanci_Programi | Created for Turkeys Wholesale Companies. We aim to facilitate all stages for wholesalers | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 100 | PUBLIC | STOPPED DEVELOPMENT |
 | EDEngineer | Created for Elite Dangerous Game Tool | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | It's not my project | PUBLIC | I helped with Turkish language support
+| CodeSolvingSites | Only for Leetcode Solutions | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 22 | PUBLIC | Leetcode Problem Solutions for Learning Road
