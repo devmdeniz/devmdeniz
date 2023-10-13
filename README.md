@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdeniz&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="500">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmdeniz&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devmdeniz&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500"><br><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg"><img src="https://wakatime.com/badge/user/a8d57a8c-a949-4681-8e53-8f13be475d02.svg">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdeniz&theme=dark&hide_border=false&hide=hack,less,shell&include_all_commits=true&count_private=true&layout=compact" alt="Profile Summary Cards" width="850">
 </div>
 
