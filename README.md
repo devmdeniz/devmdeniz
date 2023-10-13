@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devmdeniz&theme=dark&hide_border=false)<br/>
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devmdeniz&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&theme=dark&hide_border=false&hide=hack,less,shell&include_all_commits=true&count_private=true&layout=compact) <br>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmdeniz&theme=dark&hide_border=false&hide=hack,less,shell&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
