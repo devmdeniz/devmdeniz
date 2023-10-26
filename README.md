@@ -31,7 +31,7 @@
 | [TR_Toptanci_Programi](https://github.com/devmdeniz/TR_Toptanci_Programi) | Created for Turkeys Wholesale Companies. We aim to facilitate all stages for wholesalers | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 100 | PUBLIC | STOPPED DEVELOPMENT |
 | [EDEngineer](https://github.com/msarilar/EDEngineer) | Created for Elite Dangerous Game Tool | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | It's not my project | PUBLIC | I helped with Turkish language support
 | [CodeSolvingSites](https://github.com/devmdeniz/CodeSolvingSites) | Only for Leetcode Solutions | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 22 | PUBLIC | Leetcode Problem Solutions for Learning Road
-| ??? | About Math | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 0 | Private Until Tubitak/Teknofest | ??? |
+| ??? | About Math | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 30 | Private Until Tubitak/Teknofest | ??? |
 
 ### ✍️ Random Dev Quote
 
