@@ -31,7 +31,7 @@
 | ??? | About Math | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 60 | Private Until Tubitak/Teknofest | ???
 | [ZeppOS](https://github.com/devmdeniz/ZeppOS) | Note Application for mine amazfit mi band 7 watch | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 0 | Public | Not started yet. 
 | DiscordBot14 | A Discord Bot for my discord server | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) DiscordJS, ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | 36 | Private | In these times i will prefer like this. 
-| [RogueVania](https://github.com/stackneval-games/RogueVania) | A Unreal Engine Game | Blueprint, C++ | 43 | Private | Game is still Work On Progress |
+| [RogueVania](https://github.com/stackneval-games/RogueVania) | A Unreal Engine Game | Blueprint, ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 43 | Private | Game is still Work On Progress |
 
 ### ✍️ Random Dev Quote
 
