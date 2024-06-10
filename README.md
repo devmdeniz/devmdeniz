@@ -21,7 +21,12 @@
 
 | Project name      | Description | Main Language or Technology     | Commit Number | STATE | WHY
 | :---        |    :----:   |          ---: |          ---: |          ---: |          ---: |
-| Getting | Update | Soon | Please | Wait | :)
+| Holding Template | Company Presentation Template | PHP | 2 | PUBLIC | -
+| VoiceDownWhenSpeaking | Voices down spotify when you speaking | Python | 3 | PUBLIC | -
+| AutomaticPortfolio | A Portfolio fetching data from Github | PHP | 6 | PUBLIC | -
+| SnakeGame | Basic Sneake Game | PHP, Javascript | 43 | PUBLIC | -
+| CodeSolvingSites | My Leetcode Story | PHP | 25 | PUBLIC | -
+| EDEngineer | Helping Turkish Translate | C# | - | PUBLIC | -
 
 ### ✍️ Random Dev Quote
 
