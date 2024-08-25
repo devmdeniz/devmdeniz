@@ -29,7 +29,9 @@
 | EDEngineer | Helping Turkish Translate | C# | - | PUBLIC | -
 | Meme-Archive | Helping find popular memes | PHP | - | PRIVATE | WIP
 
-
+# Recents 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
