@@ -31,6 +31,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#807](https://github.com/OfficeDev/Office-Add-in-samples/issues/807) in [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
