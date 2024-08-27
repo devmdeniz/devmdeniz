@@ -16,18 +16,17 @@
 ---
 # ℹ️ Projects:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 | Project name      | Description | Main Language or Technology     | Commit Number | STATE | WHY
 | :---        |    :----:   |          ---: |          ---: |          ---: |          ---: |
-| Holding Template | Company Presentation Template | PHP | 2 | PUBLIC | -
-| VoiceDownWhenSpeaking | Voices down spotify when you speaking | Python | 3 | PUBLIC | -
 | AutomaticPortfolio | A Portfolio fetching data from Github | PHP | 6 | PUBLIC | -
-| SnakeGame | Basic Sneake Game | PHP, Javascript | 43 | PUBLIC | -
 | CodeSolvingSites | My Leetcode Story | PHP | 25 | PUBLIC | -
 | EDEngineer | Helping Turkish Translate | C# | - | PUBLIC | -
-| Meme-Archive | Helping find popular memes | PHP | - | PRIVATE | WIP
+| Holding Template | Company Presentation Template | PHP | 2 | PUBLIC | -
+| Meme-Archive | Helping find popular memes | PHP | - | Public | WIP
+| SnakeGame | Basic Sneake Game | PHP, Javascript | 43 | PUBLIC | -
+| VoiceDownWhenSpeaking | Voices down spotify when you speaking | Python | 3 | PUBLIC | -
+
 
 # Recents 
 <!--START_SECTION:activity-->
