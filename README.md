@@ -23,7 +23,7 @@
 | CodeSolvingSites | My Leetcode Story | PHP | 25 | PUBLIC | -
 | EDEngineer | Helping Turkish Translate | C# | - | PUBLIC | -
 | Holding Template | Company Presentation Template | PHP | 2 | PUBLIC | -
-| Meme-Archive | Helping find popular memes | PHP | - | Public | WIP
+| Meme-Archive | Helping find popular memes | PHP | - | PUBLIC | WIP
 | SnakeGame | Basic Sneake Game | PHP, Javascript | 43 | PUBLIC | -
 | VoiceDownWhenSpeaking | Voices down spotify when you speaking | Python | 3 | PUBLIC | -
 
