@@ -30,7 +30,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#807](https://github.com/OfficeDev/Office-Add-in-samples/issues/807) in [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples)
+1. ❗ Opened issue [#10](https://github.com/devmdeniz/meme-archive/issues/10) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
