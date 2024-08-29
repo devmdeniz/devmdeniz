@@ -30,7 +30,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/devmdeniz/meme-archive/issues/10) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
+1. 🎉 Merged PR [#12](https://github.com/devmdeniz/meme-archive/pull/12) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
