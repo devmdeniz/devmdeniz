@@ -30,7 +30,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/devmdeniz/meme-archive/issues/22) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
+1. ❗ Opened issue [#400](https://github.com/wakatime/vscode-wakatime/issues/400) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 ![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
 
