@@ -34,6 +34,10 @@
 <!--END_SECTION:activity-->
 ![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
 
+
+### -
+1. [Wakatime #400](https://github.com/wakatime/vscode-wakatime/issues/400)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
