@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
 
 
-### -
+### IMP. Repos i contributed with
 1. [Wakatime #400](https://github.com/wakatime/vscode-wakatime/issues/400)
 
 ### ✍️ Random Dev Quote
