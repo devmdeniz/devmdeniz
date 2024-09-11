@@ -14,7 +14,7 @@
 
 
 ---
-# ℹ️ Projects:
+# 💫 Projects:
 
 
 | Project name      | Description | Main Language or Technology     | Commit Number | STATE | WHY
