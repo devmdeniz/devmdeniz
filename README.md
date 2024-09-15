@@ -29,7 +29,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/devmdeniz/meme-archive/pull/29) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
+1. 🔒 Closed issue [#24](https://github.com/devmdeniz/meme-archive/issues/24) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
 ![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
 
