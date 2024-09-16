@@ -15,14 +15,19 @@
 
 ---
 # 💫 Projects:
+| Status | Meaning
+| :---        |    :----:   |
+| ☠️ | I will no longer update
+| 🛠 | Working on it
+| 🧮 | On my waiting list
+| ⏳ | I will not work on it for a long time
 
-
-| Project name      | Description | Main Language or Technology     | Commit Number | STATE | WHY
+| Project name      | Description | Main Language or Technology     | Commit Number | STATE | STATUS
 | :---        |    :----:   |          ---: |          ---: |          ---: |          ---: |
-| AutomaticPortfolio | A Portfolio fetching data from Github | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 6 | PUBLIC | -
-| Holding Template | Company Presentation Template | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 2 | PUBLIC | -
-| Meme-Archive | Helping find popular memes | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 60 | PUBLIC | -
-| VoiceDownWhenSpeaking | Voices down spotify when you speaking | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 3 | PUBLIC | -
+| [AutomaticPortfolio](https://github.com/devmdeniz/AutomaticPortfolio) | A Portfolio fetching data from Github | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 6 | PUBLIC | 🧮
+| [Holding Template]() | Company Presentation Template | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 2 | PUBLIC | 🧮
+| [Meme-Archive](https://github.com/devmdeniz/meme-archive) | Helping find popular memes | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 60 | PUBLIC | 🛠
+| [VoiceDownWhenSpeaking](https://github.com/devmdeniz/VoiceDownWhenSpeaking) | Voices down spotify when you speaking | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 3 | PUBLIC | ☠️
 
 [For more, click here](Projects.md)
 
