@@ -1,0 +1,36 @@
+name: Sort Projects by Commit Number
+
+on:
+  push:
+    paths:
+      - "Projects.md"
+  workflow_dispatch:
+
+jobs:
+  sort-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Sort Projects Table in Projects.md
+        run: node sort-projects.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Projects.md
+          git commit -m "Sort Projects by Commit Number" --author="github-actions[bot] <actions@github.com>" -m "Co-authored-by: devmdeniz <68655812+devmdeniz@users.noreply.github.com>"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
