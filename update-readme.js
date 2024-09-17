@@ -20,7 +20,7 @@ const rows = projectsTable
   .filter(row => row.length > 1)
   .sort((a, b) => parseInt(b[3]) - parseInt(a[3]))
   .slice(0, 5);
-
+console.log(rows)
 // Yeni tabloyu oluştur
 const updatedTable = ['| Project name | Description | Main Language or Technology | Commit Number | STATE | STATUS |', 
                       '| :--- | :----: | ---: | ---: | ---: | ---: |']
