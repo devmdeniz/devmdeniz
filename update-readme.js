@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const projectsFile = fs.readFileSync('projects.md', 'utf8');
+const projectsFile = fs.readFileSync('Projects.md', 'utf8');
 const readmeFile = fs.readFileSync('README.md', 'utf8');
 
 const tablesSectionRegex = /<!--START_SECTION:ProjectsList-->([\s\S]*?)<!--END_SECTION:ProjectsList-->/i;
