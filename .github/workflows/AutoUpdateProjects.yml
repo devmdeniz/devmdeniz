@@ -3,8 +3,10 @@ name: Update README tables
 on:
   push:
     paths:
-      - "Projects.md"  # projects.md dosyasındaki değişiklikleri izler
+      - "Projects.md"
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   update-readme:
     runs-on: ubuntu-latest
