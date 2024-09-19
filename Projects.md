@@ -11,5 +11,8 @@
 | [Holding Template](https://github.com/devmdeniz/HoldingTemplate) | Company Presentation Template | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 2 | PUBLIC | 🧮 |  |
 | [MathProjectWordAddOn](https://github.com/devmdeniz/MathProjectWordAddOn) | Add-on that basically pulls data from json and converts it from latex to image and writes it to the document | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 1 | PUBLIC | ☠️ |  |
 | [No-More-Dissatisfaction](https://github.com/devmdeniz/No-More-Dissatisfaction) | A mod for Startup Company Game | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 1 | PUBLIC | 🧮 |  |
+| [Media Companies Automation System](https://github.com/devmdeniz/Media-Companies-Automation-System) | Google Drive Integrated Website | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 3 | PRIVATE | 🧮 |  |
+| [Google-Drive-Integrated-Website](https://github.com/devmdeniz/Google-Drive-Integrated-Website) | Google Drive Integrated Website | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 3 | PRIVATE | 🧮 |  |
 | ![Forked](https://img.shields.io/badge/Forked-%235555FF.svg?style=for-the-badge&logo=Git&logoColor=white) [EDEngineer](https://github.com/devmdeniz/EDEngineer) | Helping Turkish Translate | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | 0 | PUBLIC | ☠️ |  |
+
 <!--END_SECTION:ProjectsList-->
