@@ -25,11 +25,11 @@
 <!--START_SECTION:ProjectsList-->
 | Project name | Description | Main Language or Technology | Commit Number | STATE | STATUS |
 | :--- | :----: | ---: | ---: | ---: | ---: |
-| [MathProject](https://github.com/devmdeniz/MathProject) | This project is a TEKNOFEST and TUBITAK project. | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 113 | PUBLIC | 🧮 |  |  |
-| [Meme-Archive](https://github.com/devmdeniz/meme-archive) | Helping find popular memes | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 60 | PUBLIC | 🛠 |  |  |
-| [dikholdingAdminPage](https://github.com/devmdeniz/dikholdingAdminPage) | Control Every Companies with one system | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 53 | PRIVATE | 🛠 |  |  |
-| [SnakeGame](https://github.com/devmdeniz/snakegame) | Basic Sneake Game | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 43 | PUBLIC | ☠️ |  |  |
-| [CodeSolvingSites](https://github.com/devmdeniz/CodeSolvingSites) | My Leetcode Story | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 25 | PUBLIC | 🧮 |  |  |
+| [MathProject](https://github.com/devmdeniz/MathProject) | This project is a TEKNOFEST and TUBITAK project. | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 113 | PUBLIC | 🧮 |  |  |  |
+| [Meme-Archive](https://github.com/devmdeniz/meme-archive) | Helping find popular memes | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 60 | PUBLIC | 🛠 |  |  |  |
+| [dikholdingAdminPage](https://github.com/devmdeniz/dikholdingAdminPage) | Control Every Companies with one system | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 53 | PRIVATE | 🛠 |  |  |  |
+| [SnakeGame](https://github.com/devmdeniz/snakegame) | Basic Sneake Game | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 43 | PUBLIC | ☠️ |  |  |  |
+| [CodeSolvingSites](https://github.com/devmdeniz/CodeSolvingSites) | My Leetcode Story | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | 25 | PUBLIC | 🧮 |  |  |  |
 <!--END_SECTION:ProjectsList-->
 [For more, click here](Projects.md)
 
