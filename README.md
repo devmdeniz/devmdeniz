@@ -36,7 +36,7 @@
 
 # Recents 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/devmdeniz/No-More-Dissatisfaction/issues/1) in [devmdeniz/No-More-Dissatisfaction](https://github.com/devmdeniz/No-More-Dissatisfaction)
+1. ❗ Opened issue [#32](https://github.com/devmdeniz/meme-archive/issues/32) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
 ![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
 
