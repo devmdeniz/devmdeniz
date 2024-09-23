@@ -38,12 +38,6 @@
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#32](https://github.com/devmdeniz/meme-archive/issues/32) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
-![](https://github-contributor-stats.vercel.app/api?username=devmdeniz&limit=3&theme=transparent&combine_all_yearly_contributions=true)
-
-
-### IMP. Repos i contributed with
-1. [Wakatime #400](https://github.com/wakatime/vscode-wakatime/issues/400)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
