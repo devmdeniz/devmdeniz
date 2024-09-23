@@ -5,9 +5,6 @@ on:
     paths:
       - "Projects.md"
   workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *'
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -26,9 +23,6 @@ jobs:
 
       - name: Update README tables
         run: node update-readme.js
-
-      - name: Check for changes
-        run: git diff --exit-code README.md || echo "Changes detected"
 
       - name: Commit and push changes
         if: ${{ steps['Check for changes'].outputs.exit-code != 0 }}
