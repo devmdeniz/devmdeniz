@@ -1,9 +1,9 @@
 # 💫 About Me:
-🛠 I'm currently working on World Ilkevim Gayrimenkul🛠 <br>
+🛠 I'm currently working with Cartel Media 🛠 <br>
 ♾ Mid Fullstack Developer ♾ <br>
 🦉 I'm currently Studying at Sivas Cumhuriyet University (Sivas Republic University) 🦉 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.mdeniz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-deniz-kumcu-081b00187) <br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.mdeniz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-deniz-kumcu-081b00187)
 [![](https://visitcount.itsvg.in/api?id=devmdeniz&icon=7&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 WakaTime:
@@ -15,12 +15,10 @@
 
 ---
 # 💫 Projects:
-| Status | Meaning
-| :---        |    :----:   |
-| ☠️ | I will no longer update
-| 🛠 | Working on it
-| 🧮 | On my waiting list
-| ⏳ | I will not work on it for a long time
+| Status | Meaning | Status | Meaning |
+| :---        |    :----:   | :---:       |    ----:   |
+| ☠️ | I will no longer update | 🧮 | On my waiting list
+| 🛠 | Working on it | ⏳ | I will not work on it for a long time
 
 <!--START_SECTION:ProjectsList-->
 | Project name | Description | Main Language or Technology | Commit Number | STATE | STATUS |
@@ -31,10 +29,10 @@
 | [SnakeGame](https://github.com/devmdeniz/snakegame) | Basic Sneake Game | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | 43 | PUBLIC | ☠️ |  |  |  |  |
 | [Media Companies Automation System](https://github.com/devmdeniz/Media-Companies-Automation-System) | Media Company Automation System which using Google Drive | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 40 | PRIVATE | 🧮 |  |  |  |  |
 <!--END_SECTION:ProjectsList-->
-[For more, click here](Projects.md)
+# [For more projects, click here](Projects.md)
 
 
-# Recents 
+# Recent Activities
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#32](https://github.com/devmdeniz/meme-archive/issues/32) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
 <!--END_SECTION:activity-->
