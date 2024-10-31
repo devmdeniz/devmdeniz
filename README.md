@@ -34,7 +34,7 @@
 
 # Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/devmdeniz/meme-archive/issues/32) in [devmdeniz/meme-archive](https://github.com/devmdeniz/meme-archive)
+1. 🚀 Published release [Simple Version](https://github.com/devmdeniz/AutomaticPortfolio/releases/tag/1.0.0) in [devmdeniz/AutomaticPortfolio](https://github.com/devmdeniz/AutomaticPortfolio)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
