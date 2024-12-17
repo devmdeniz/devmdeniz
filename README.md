@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working with Cartel Media 🛠 <br>
+🛠 I'm currently working with DIK Holding 🛠 <br>
 ♾ Mid Fullstack Developer ♾ <br>
 🦉 I'm currently Studying at Sivas Cumhuriyet University (Sivas Republic University) 🦉 <br>
 
