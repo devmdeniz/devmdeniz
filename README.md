@@ -37,7 +37,7 @@
 
 # Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20488](https://github.com/is-a-dev/register/pull/20488) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#159](https://github.com/kingparks/cursor-vip/issues/159#issuecomment-2678336534) in [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
