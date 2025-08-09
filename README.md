@@ -1,6 +1,6 @@
 # 💫 About Me:
-🛠 I'm currently working with DIK Holding 🛠 <br>
-♾ Mid Fullstack Developer ♾ <br>
+🛠 Natron Software 🛠 <br>
+♾ CTO ♾ <br>
 🦉 I'm currently Studying at Sivas Cumhuriyet University (Sivas Republic University) 🦉 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.mdeniz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-deniz-kumcu-081b00187)
