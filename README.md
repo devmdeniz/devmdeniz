@@ -37,7 +37,7 @@
 
 # Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/kingparks/cursor-vip/issues/159#issuecomment-2678336534) in [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip)
+1. 🔒 Closed issue [#2390](https://github.com/NiagaraLauncher/Niagara-Issues/issues/2390) in [NiagaraLauncher/Niagara-Issues](https://github.com/NiagaraLauncher/Niagara-Issues)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
