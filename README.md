@@ -37,7 +37,7 @@
 
 # Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2390](https://github.com/NiagaraLauncher/Niagara-Issues/issues/2390) in [NiagaraLauncher/Niagara-Issues](https://github.com/NiagaraLauncher/Niagara-Issues)
+1. 🗣 Commented on [#1411](https://github.com/eythaann/Seelen-UI/issues/1411#issuecomment-4064032740) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 <!--END_SECTION:activity-->
 ### ✍️ Random Dev Quote
 
