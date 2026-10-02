@@ -1,5 +1,4 @@
 # 💫 About Me:
-🛠 Natron Software 🛠 <br>
 ♾ CTO ♾ <br>
 🦉 I'm currently Studying at Sivas Cumhuriyet University (Sivas Republic University) 🦉 <br>
 
